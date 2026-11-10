@@ -1,0 +1,300 @@
+Receipt No;Date;Branch;Product;Qty;Unit Price
+R100633;01.10.2026;Izmir Alsancak;Grinder;4;2150.00
+R100634;01/10/2026;Istanbul Kadikoy;Grinder;3;2150,00
+R100635;01.10.2026;Ankara Kizilay;Milk Frother;4;990.00
+R100636;2026-10-01;Ankara Kizilay;Travel Mug;1;340.00
+R100637;2026-10-01;Istanbul Kadikoy;Coffee Beans 1kg;2;420.00
+R100638;2026-10-01;Ankara Cankaya;Paper Filters;1;85.00
+R100639;01/10/2026;Izmir Alsancak;Travel Mug;1;340.00
+R100640;01/10/2026;Ankara Kizilay;Milk Frother;5;990,00
+R100641;01/10/2026;Ankara Kizilay;Espresso Machine;2;8900.00
+R100642;01/10/2026;Ankara Kizilay;Coffee Beans 1kg;2;420.00
+R100643;2026-10-01;Ankara Cankaya;Paper Filters;4;85,00
+R100644;2026-10-01;Istanbul Kadikoy;Paper Filters;3;85,00
+R100645;2026-10-02;Ankara Cankaya;Grinder;2;2150,00
+R100646;02.10.2026;Ankara Kizilay;Espresso Machine;5;8900.00
+R100647;2026-10-02;Ankara Kizilay;Milk Frother;5;990,00
+R100648;02/10/2026;Ankara Cankaya;Paper Filters;4;85,00
+R100649;02.10.2026;Ankara Cankaya;Travel Mug;2;340.00
+R100650;02/10/2026;  IZMIR ALSANCAK ;Espresso Machine;2;8900,00
+R100651;03.10.2026;Izmir Alsancak;Milk Frother;4;990,00
+R100652;2026-10-03;Ankara Cankaya;Espresso Machine;5;8900.00
+R100653;2026-10-03;Istanbul Kadikoy;Grinder;4;2150.00
+R100654;03/10/2026;  ANKARA KIZILAY ;Paper Filters;5;85.00
+R100655;03/10/2026;Izmir Alsancak;Travel Mug;4;340,00
+R100656;03/10/2026;Istanbul Kadikoy;Travel Mug;2;340.00
+R100657;2026-10-03;Izmir Alsancak;Grinder;2;2150,00
+R100658;03/10/2026;Izmir Alsancak;Milk Frother;;990.00
+R100659;03.10.2026;Ankara Kizilay;Grinder;4;2150.00
+R100659;03.10.2026;Ankara Kizilay;Grinder;4;2150.00
+R100660;03.10.2026;Istanbul Kadikoy;Milk Frother;;990.00
+R100661;2026-10-03;  IZMIR ALSANCAK ;Milk Frother;2;990,00
+R100662;2026-10-03;Ankara Kizilay;Espresso Machine;2;8900,00
+R100663;04/10/2026;Ankara Cankaya;Paper Filters;1;85,00
+R100664;2026-10-04;Ankara Cankaya;Coffee Beans 1kg;2;420,00
+R100665;04.10.2026;Ankara Kizilay;Grinder;2;2150,00
+R100666;04.10.2026;Ankara Kizilay;Espresso Machine;3;8900.00
+R100667;04/10/2026;Ankara Cankaya;Milk Frother;1;990.00
+R100668;2026-10-04;Ankara Kizilay;Coffee Beans 1kg;4;420.00
+R100669;2026-10-04;Istanbul Kadikoy;Coffee Beans 1kg;5;420.00
+R100670;04/10/2026;Ankara Cankaya;Paper Filters;5;85.00
+R100670;04/10/2026;Ankara Cankaya;Paper Filters;5;85.00
+R100671;2026-10-04;Ankara Kizilay;Travel Mug;5;340.00
+R100672;04/10/2026;Istanbul Kadikoy;Travel Mug;4;340.00
+R100673;04/10/2026;Istanbul Kadikoy;Milk Frother;2;990,00
+R100674;04.10.2026;Istanbul Kadikoy;Paper Filters;3;85.00
+R100675;2026-10-04;Istanbul Kadikoy;Paper Filters;4;85.00
+R100676;2026-10-04;Izmir Alsancak;Coffee Beans 1kg;5;420.00
+R100677;05/10/2026;Istanbul Kadikoy;Coffee Beans 1kg;4;420.00
+R100678;2026-10-05;  ISTANBUL KADIKOY ;Coffee Beans 1kg;4;420.00
+R100679;05/10/2026;Istanbul Kadikoy;Grinder;3;2150.00
+R100680;05/10/2026;Izmir Alsancak;Paper Filters;3;85.00
+R100681;05/10/2026;Ankara Cankaya;Coffee Beans 1kg;1;420,00
+R100682;05.10.2026;Izmir Alsancak;Espresso Machine;3;8900,00
+R100683;2026-10-05;Ankara Kizilay;Coffee Beans 1kg;1;420.00
+R100684;05/10/2026;Ankara Cankaya;Grinder;5;2150.00
+R100685;2026-10-06;Ankara Cankaya;Grinder;3;2150.00
+R100686;2026-10-06;Ankara Cankaya;Coffee Beans 1kg;2;420.00
+R100687;06.10.2026;Izmir Alsancak;Paper Filters;5;85.00
+R100688;2026-10-06;Ankara Cankaya;Travel Mug;4;340.00
+R100689;2026-10-06;Ankara Kizilay;Espresso Machine;5;8900.00
+R100690;06/10/2026;Istanbul Kadikoy;Milk Frother;4;990,00
+R100691;06.10.2026;Istanbul Kadikoy;Grinder;1;2150,00
+R100692;2026-10-06;Ankara Cankaya;Grinder;4;2150,00
+R100693;06/10/2026;Istanbul Kadikoy;Milk Frother;3;990.00
+R100694;06/10/2026;Ankara Cankaya;Grinder;2;2150.00
+R100695;2026-10-06;Ankara Kizilay;Coffee Beans 1kg;2;420.00
+R100696;2026-10-06;Ankara Kizilay;Travel Mug;3;340.00
+R100697;06.10.2026;Istanbul Kadikoy;Milk Frother;;990.00
+R100698;2026-10-06;  ANKARA CANKAYA ;Travel Mug;5;340,00
+R100699;2026-10-07;Istanbul Kadikoy;Grinder;5;2150.00
+R100700;07.10.2026;Ankara Kizilay;Travel Mug;4;340.00
+R100701;07/10/2026;Ankara Kizilay;Travel Mug;1;340.00
+R100702;2026-10-07;Ankara Cankaya;Grinder;3;2150.00
+R100703;07/10/2026;Ankara Kizilay;Espresso Machine;2;8900.00
+R100704;2026-10-07;Izmir Alsancak;Coffee Beans 1kg;;420.00
+R100705;2026-10-07;Ankara Kizilay;Espresso Machine;2;8900.00
+R100706;2026-10-08;Izmir Alsancak;Milk Frother;3;990,00
+R100707;2026-10-08;Ankara Kizilay;Paper Filters;2;85,00
+R100708;08.10.2026;Ankara Kizilay;Coffee Beans 1kg;3;420.00
+R100709;08/10/2026;Istanbul Kadikoy;Espresso Machine;2;8900.00
+R100710;08/10/2026;Ankara Kizilay;Espresso Machine;5;8900.00
+R100711;08/10/2026;Istanbul Kadikoy;Travel Mug;1;340.00
+R100712;08/10/2026;Izmir Alsancak;Espresso Machine;5;8900.00
+R100713;08.10.2026;Ankara Kizilay;Espresso Machine;4;8900.00
+R100714;2026-10-08;Istanbul Kadikoy;Travel Mug;3;340,00
+R100715;08.10.2026;Ankara Kizilay;Milk Frother;4;990,00
+R100716;08/10/2026;Izmir Alsancak;Coffee Beans 1kg;4;420,00
+R100717;08/10/2026;  IZMIR ALSANCAK ;Grinder;1;2150,00
+R100718;09/10/2026;  ANKARA KIZILAY ;Paper Filters;1;85.00
+R100719;09.10.2026;Ankara Cankaya;Grinder;3;2150.00
+R100720;2026-10-09;  ANKARA CANKAYA ;Milk Frother;4;990,00
+R100721;2026-10-09;  ANKARA KIZILAY ;Espresso Machine;3;8900.00
+R100722;09/10/2026;Istanbul Kadikoy;Grinder;1;2150.00
+R100723;2026-10-09;Ankara Cankaya;Paper Filters;4;85,00
+R100724;2026-10-09;Ankara Cankaya;Paper Filters;5;85.00
+R100725;09/10/2026;  ANKARA CANKAYA ;Travel Mug;5;340,00
+R100726;10/10/2026;Ankara Cankaya;Paper Filters;4;85.00
+R100727;10.10.2026;Istanbul Kadikoy;Milk Frother;1;990.00
+R100728;2026-10-10;Izmir Alsancak;Travel Mug;3;340.00
+R100729;10.10.2026;Istanbul Kadikoy;Milk Frother;3;990,00
+R100730;2026-10-10;Istanbul Kadikoy;Milk Frother;5;990,00
+R100731;2026-10-10;  IZMIR ALSANCAK ;Travel Mug;2;340,00
+R100732;10/10/2026;Izmir Alsancak;Grinder;4;2150,00
+R100733;2026-10-10;  ISTANBUL KADIKOY ;Espresso Machine;3;8900.00
+R100734;2026-10-10;Izmir Alsancak;Coffee Beans 1kg;4;420.00
+R100735;10.10.2026;Izmir Alsancak;Grinder;4;2150.00
+R100736;2026-10-10;  ISTANBUL KADIKOY ;Milk Frother;1;990.00
+R100737;2026-10-11;Ankara Cankaya;Espresso Machine;1;8900,00
+R100738;11/10/2026;  ISTANBUL KADIKOY ;Paper Filters;5;85.00
+R100739;11.10.2026;Ankara Cankaya;Milk Frother;1;990.00
+R100739;11.10.2026;Ankara Cankaya;Milk Frother;1;990.00
+R100740;2026-10-11;Istanbul Kadikoy;Espresso Machine;1;8900,00
+R100741;11.10.2026;Ankara Kizilay;Espresso Machine;4;8900.00
+R100742;11/10/2026;  ANKARA KIZILAY ;Milk Frother;4;990.00
+R100743;11/10/2026;Izmir Alsancak;Paper Filters;4;85.00
+R100744;2026-10-11;Izmir Alsancak;Coffee Beans 1kg;3;420.00
+R100745;11/10/2026;Izmir Alsancak;Coffee Beans 1kg;4;420,00
+R100746;2026-10-12;  IZMIR ALSANCAK ;Coffee Beans 1kg;5;420,00
+R100747;12.10.2026;Istanbul Kadikoy;Grinder;3;2150,00
+R100748;2026-10-12;  ISTANBUL KADIKOY ;Grinder;5;2150.00
+R100749;12/10/2026;  IZMIR ALSANCAK ;Grinder;2;2150.00
+R100750;12.10.2026;Ankara Cankaya;Milk Frother;3;990.00
+R100751;12/10/2026;Izmir Alsancak;Coffee Beans 1kg;1;420.00
+R100752;2026-10-12;Ankara Cankaya;Paper Filters;4;85,00
+R100753;12.10.2026;Ankara Cankaya;Travel Mug;5;340.00
+R100754;13/10/2026;  ANKARA KIZILAY ;Espresso Machine;4;8900.00
+R100755;13.10.2026;Izmir Alsancak;Paper Filters;2;85.00
+R100756;2026-10-13;Ankara Kizilay;Paper Filters;2;85,00
+R100757;13/10/2026;Ankara Cankaya;Travel Mug;5;340.00
+R100757;13/10/2026;Ankara Cankaya;Travel Mug;5;340.00
+R100758;2026-10-13;  IZMIR ALSANCAK ;Paper Filters;2;85.00
+R100759;2026-10-13;Istanbul Kadikoy;Espresso Machine;3;8900,00
+R100759;2026-10-13;Istanbul Kadikoy;Espresso Machine;3;8900,00
+R100760;13/10/2026;Ankara Kizilay;Travel Mug;1;340,00
+R100761;13.10.2026;Istanbul Kadikoy;Espresso Machine;4;8900,00
+R100762;13/10/2026;Izmir Alsancak;Coffee Beans 1kg;5;420.00
+R100763;13/10/2026;Ankara Cankaya;Milk Frother;4;990,00
+R100764;13.10.2026;  IZMIR ALSANCAK ;Travel Mug;3;340,00
+R100765;13/10/2026;  IZMIR ALSANCAK ;Grinder;5;2150.00
+R100766;2026-10-13;Istanbul Kadikoy;Espresso Machine;2;8900.00
+R100767;2026-10-13;Ankara Cankaya;Espresso Machine;4;8900.00
+R100768;14.10.2026;Ankara Kizilay;Grinder;5;2150.00
+R100769;14.10.2026;Istanbul Kadikoy;Paper Filters;2;85,00
+R100770;2026-10-14;Ankara Cankaya;Espresso Machine;5;8900,00
+R100771;2026-10-14;Izmir Alsancak;Travel Mug;4;340.00
+R100772;14.10.2026;Ankara Cankaya;Espresso Machine;4;8900,00
+R100773;14/10/2026;Ankara Cankaya;Espresso Machine;1;8900.00
+R100774;2026-10-14;Izmir Alsancak;Milk Frother;5;990,00
+R100775;14.10.2026;Ankara Kizilay;Travel Mug;5;340,00
+R100776;2026-10-14;Ankara Cankaya;Paper Filters;2;85.00
+R100777;2026-10-15;Ankara Cankaya;Travel Mug;3;340.00
+R100778;15.10.2026;Ankara Cankaya;Coffee Beans 1kg;2;420,00
+R100779;15/10/2026;Istanbul Kadikoy;Grinder;1;2150,00
+R100780;2026-10-15;Ankara Kizilay;Espresso Machine;1;8900,00
+R100781;15/10/2026;Ankara Kizilay;Espresso Machine;3;8900.00
+R100782;15/10/2026;Ankara Kizilay;Grinder;4;2150.00
+R100783;15.10.2026;Istanbul Kadikoy;Paper Filters;4;85.00
+R100784;15/10/2026;Ankara Cankaya;Coffee Beans 1kg;5;420.00
+R100785;16/10/2026;Izmir Alsancak;Coffee Beans 1kg;3;420,00
+R100786;2026-10-16;Ankara Cankaya;Espresso Machine;4;8900.00
+R100787;16/10/2026;  ISTANBUL KADIKOY ;Milk Frother;1;990.00
+R100788;16.10.2026;Ankara Kizilay;Coffee Beans 1kg;2;420,00
+R100789;16.10.2026;  ANKARA KIZILAY ;Travel Mug;2;340.00
+R100789;16.10.2026;  ANKARA KIZILAY ;Travel Mug;2;340.00
+R100790;2026-10-16;Ankara Cankaya;Travel Mug;3;340.00
+R100791;2026-10-16;Izmir Alsancak;Milk Frother;3;990.00
+R100792;2026-10-17;Izmir Alsancak;Grinder;4;2150.00
+R100793;17/10/2026;Istanbul Kadikoy;Travel Mug;4;340,00
+R100794;2026-10-17;Ankara Cankaya;Espresso Machine;5;8900.00
+R100795;17.10.2026;  ANKARA KIZILAY ;Coffee Beans 1kg;4;420.00
+R100796;17/10/2026;Ankara Kizilay;Milk Frother;1;990,00
+R100797;17/10/2026;Ankara Cankaya;Milk Frother;3;990,00
+R100798;17.10.2026;Ankara Cankaya;Coffee Beans 1kg;1;420,00
+R100799;2026-10-17;Istanbul Kadikoy;Paper Filters;2;85,00
+R100800;2026-10-17;Istanbul Kadikoy;Travel Mug;4;340.00
+R100801;18.10.2026;Izmir Alsancak;Paper Filters;3;85.00
+R100802;18/10/2026;Istanbul Kadikoy;Grinder;5;2150.00
+R100803;18.10.2026;Ankara Kizilay;Espresso Machine;3;8900.00
+R100804;18.10.2026;Istanbul Kadikoy;Milk Frother;5;990.00
+R100805;18/10/2026;  ANKARA CANKAYA ;Grinder;5;2150.00
+R100805;18/10/2026;  ANKARA CANKAYA ;Grinder;5;2150.00
+R100806;18.10.2026;Istanbul Kadikoy;Grinder;2;2150.00
+R100807;18/10/2026;Istanbul Kadikoy;Travel Mug;1;340,00
+R100808;2026-10-18;Ankara Cankaya;Milk Frother;1;990.00
+R100809;2026-10-18;Istanbul Kadikoy;Travel Mug;5;340.00
+R100810;2026-10-19;  IZMIR ALSANCAK ;Paper Filters;3;85,00
+R100811;19/10/2026;Istanbul Kadikoy;Espresso Machine;3;8900.00
+R100812;2026-10-19;Ankara Cankaya;Espresso Machine;5;8900,00
+R100813;19.10.2026;  ANKARA CANKAYA ;Coffee Beans 1kg;5;420.00
+R100814;19.10.2026;Ankara Kizilay;Grinder;;2150.00
+R100815;2026-10-19;Izmir Alsancak;Milk Frother;;990.00
+R100816;2026-10-19;Ankara Kizilay;Espresso Machine;1;8900.00
+R100817;2026-10-19;Ankara Kizilay;Grinder;2;2150.00
+R100818;20/10/2026;Izmir Alsancak;Travel Mug;5;340.00
+R100819;20/10/2026;Ankara Cankaya;Grinder;4;2150.00
+R100820;20/10/2026;Ankara Cankaya;Paper Filters;4;85.00
+R100821;20.10.2026;Istanbul Kadikoy;Coffee Beans 1kg;1;420.00
+R100822;2026-10-20;Izmir Alsancak;Milk Frother;5;990.00
+R100823;2026-10-20;Ankara Cankaya;Espresso Machine;1;8900.00
+R100824;2026-10-21;Ankara Cankaya;Travel Mug;3;340.00
+R100825;21.10.2026;Ankara Cankaya;Espresso Machine;1;8900,00
+R100826;21.10.2026;Izmir Alsancak;Paper Filters;1;85,00
+R100827;21.10.2026;Izmir Alsancak;Grinder;4;2150.00
+R100828;2026-10-21;Ankara Cankaya;Milk Frother;2;990,00
+R100829;2026-10-21;Istanbul Kadikoy;Milk Frother;4;990.00
+R100830;21.10.2026;Izmir Alsancak;Travel Mug;3;340,00
+R100831;2026-10-21;Ankara Kizilay;Coffee Beans 1kg;4;420.00
+R100832;21.10.2026;  ISTANBUL KADIKOY ;Paper Filters;4;85.00
+R100833;21/10/2026;Ankara Cankaya;Coffee Beans 1kg;4;420.00
+R100834;21.10.2026;Istanbul Kadikoy;Paper Filters;1;85,00
+R100835;2026-10-21;Izmir Alsancak;Paper Filters;1;85.00
+R100836;21.10.2026;Ankara Kizilay;Milk Frother;;990.00
+R100837;2026-10-22;Ankara Cankaya;Espresso Machine;1;8900,00
+R100838;2026-10-22;Istanbul Kadikoy;Travel Mug;5;340,00
+R100839;22.10.2026;Istanbul Kadikoy;Paper Filters;4;85.00
+R100840;2026-10-22;Istanbul Kadikoy;Coffee Beans 1kg;5;420,00
+R100841;22.10.2026;Istanbul Kadikoy;Paper Filters;1;85,00
+R100842;22.10.2026;Ankara Kizilay;Coffee Beans 1kg;5;420.00
+R100843;23.10.2026;Istanbul Kadikoy;Espresso Machine;2;8900,00
+R100844;23/10/2026;Istanbul Kadikoy;Espresso Machine;4;8900,00
+R100845;2026-10-23;Izmir Alsancak;Travel Mug;2;340,00
+R100846;2026-10-23;Ankara Cankaya;Grinder;2;2150,00
+R100847;23.10.2026;  ISTANBUL KADIKOY ;Coffee Beans 1kg;3;420,00
+R100848;2026-10-23;  IZMIR ALSANCAK ;Paper Filters;2;85.00
+R100849;23.10.2026;  IZMIR ALSANCAK ;Coffee Beans 1kg;1;420,00
+R100850;24.10.2026;Istanbul Kadikoy;Coffee Beans 1kg;4;420.00
+R100851;24.10.2026;Ankara Cankaya;Paper Filters;3;85,00
+R100852;24.10.2026;Istanbul Kadikoy;Espresso Machine;4;8900,00
+R100853;24.10.2026;Ankara Kizilay;Paper Filters;1;85.00
+R100854;24.10.2026;Ankara Cankaya;Milk Frother;1;990.00
+R100855;24/10/2026;Izmir Alsancak;Coffee Beans 1kg;4;420.00
+R100856;24.10.2026;Izmir Alsancak;Travel Mug;1;340.00
+R100857;25.10.2026;Izmir Alsancak;Grinder;5;2150.00
+R100858;2026-10-25;Ankara Kizilay;Coffee Beans 1kg;4;420.00
+R100859;2026-10-25;Izmir Alsancak;Coffee Beans 1kg;4;420.00
+R100860;25/10/2026;Izmir Alsancak;Espresso Machine;3;8900.00
+R100861;2026-10-25;Istanbul Kadikoy;Travel Mug;4;340,00
+R100862;25/10/2026;Istanbul Kadikoy;Milk Frother;4;990.00
+R100863;25.10.2026;Istanbul Kadikoy;Paper Filters;4;85.00
+R100864;25.10.2026;Ankara Cankaya;Milk Frother;5;990.00
+R100865;25/10/2026;Izmir Alsancak;Espresso Machine;2;8900.00
+R100866;25/10/2026;Ankara Cankaya;Travel Mug;1;340.00
+R100867;2026-10-25;  ANKARA KIZILAY ;Grinder;3;2150.00
+R100868;25.10.2026;Ankara Kizilay;Milk Frother;3;990.00
+R100869;25/10/2026;Ankara Cankaya;Espresso Machine;3;8900,00
+R100870;26/10/2026;Ankara Kizilay;Paper Filters;4;85.00
+R100871;2026-10-26;Istanbul Kadikoy;Coffee Beans 1kg;5;420.00
+R100872;2026-10-26;Istanbul Kadikoy;Milk Frother;3;990.00
+R100873;26.10.2026;Izmir Alsancak;Grinder;5;2150.00
+R100874;26/10/2026;Ankara Kizilay;Coffee Beans 1kg;5;420.00
+R100875;2026-10-26;Ankara Cankaya;Espresso Machine;4;8900,00
+R100876;26.10.2026;Istanbul Kadikoy;Coffee Beans 1kg;3;420.00
+R100877;2026-10-26;Istanbul Kadikoy;Paper Filters;2;85.00
+R100878;2026-10-27;Ankara Kizilay;Grinder;1;2150.00
+R100879;27.10.2026;Ankara Kizilay;Travel Mug;3;340.00
+R100880;27/10/2026;Istanbul Kadikoy;Paper Filters;4;85.00
+R100881;2026-10-27;Istanbul Kadikoy;Paper Filters;3;85.00
+R100882;27/10/2026;Izmir Alsancak;Grinder;2;2150.00
+R100883;27.10.2026;  ISTANBUL KADIKOY ;Coffee Beans 1kg;5;420.00
+R100884;27.10.2026;  ISTANBUL KADIKOY ;Espresso Machine;4;8900.00
+R100885;2026-10-27;Istanbul Kadikoy;Travel Mug;1;340.00
+R100886;2026-10-27;Ankara Cankaya;Grinder;2;2150.00
+R100887;27.10.2026;  ANKARA CANKAYA ;Coffee Beans 1kg;2;420.00
+R100888;27/10/2026;Ankara Cankaya;Coffee Beans 1kg;2;420.00
+R100889;2026-10-27;  ISTANBUL KADIKOY ;Coffee Beans 1kg;3;420,00
+R100890;28.10.2026;Ankara Cankaya;Paper Filters;5;85,00
+R100891;28.10.2026;Izmir Alsancak;Milk Frother;;990.00
+R100892;2026-10-28;Ankara Kizilay;Espresso Machine;2;8900.00
+R100893;28.10.2026;  ANKARA CANKAYA ;Coffee Beans 1kg;3;420.00
+R100894;28.10.2026;Ankara Kizilay;Coffee Beans 1kg;4;420,00
+R100895;2026-10-28;Istanbul Kadikoy;Milk Frother;4;990.00
+R100896;28/10/2026;Ankara Cankaya;Espresso Machine;1;8900.00
+R100897;29/10/2026;  ANKARA CANKAYA ;Paper Filters;1;85.00
+R100898;29.10.2026;Ankara Kizilay;Grinder;3;2150.00
+R100899;29/10/2026;  ANKARA CANKAYA ;Espresso Machine;2;8900.00
+R100900;2026-10-29;Istanbul Kadikoy;Milk Frother;4;990,00
+R100901;2026-10-29;Ankara Kizilay;Coffee Beans 1kg;4;420,00
+R100902;2026-10-29;Ankara Cankaya;Paper Filters;4;85.00
+R100903;29/10/2026;Ankara Kizilay;Milk Frother;3;990.00
+R100904;2026-10-30;Ankara Cankaya;Coffee Beans 1kg;3;420,00
+R100905;2026-10-30;Ankara Cankaya;Milk Frother;4;990.00
+R100906;2026-10-30;Izmir Alsancak;Travel Mug;5;340,00
+R100907;30/10/2026;  IZMIR ALSANCAK ;Coffee Beans 1kg;2;420.00
+R100908;30/10/2026;Ankara Cankaya;Paper Filters;5;85.00
+R100908;30/10/2026;Ankara Cankaya;Paper Filters;5;85.00
+R100909;30.10.2026;  ANKARA KIZILAY ;Paper Filters;4;85.00
+R100910;31/10/2026;  IZMIR ALSANCAK ;Grinder;5;2150,00
+R100911;31.10.2026;Ankara Kizilay;Coffee Beans 1kg;3;420.00
+R100912;31.10.2026;Ankara Cankaya;Paper Filters;1;85.00
+R100913;31.10.2026;Ankara Cankaya;Coffee Beans 1kg;2;420.00
+R100914;2026-10-31;Ankara Cankaya;Coffee Beans 1kg;2;420.00
+R100915;31/10/2026;Ankara Cankaya;Travel Mug;4;340.00
+R100916;2026-10-31;Izmir Alsancak;Travel Mug;5;340.00
+R100917;2026-10-31;Izmir Alsancak;Paper Filters;1;85.00
+R100918;2026-10-31;Ankara Cankaya;Milk Frother;3;990.00
+R100919;31.10.2026;Ankara Kizilay;Paper Filters;3;85.00
+R100920;2026-10-31;Istanbul Kadikoy;Espresso Machine;5;8900.00
+R100921;31/10/2026;Ankara Cankaya;Grinder;5;2150.00
+R100922;2026-10-31;Istanbul Kadikoy;Milk Frother;2;990.00
+R100923;31.10.2026;Ankara Cankaya;Milk Frother;2;990,00
